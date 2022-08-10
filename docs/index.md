@@ -1,0 +1,1 @@
+**Ionian** is still under development, developers could follow this [guide](priv_net.md) to quickly setup a private Ionian network to build applications.

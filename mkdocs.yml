@@ -1,0 +1,5 @@
+site_name: Ionian Documentation
+nav:
+    - Private Network: priv_net.md
+theme: readthedocs
+copyright: Copyright © 2022 Ionian. All Rights Reserved.
